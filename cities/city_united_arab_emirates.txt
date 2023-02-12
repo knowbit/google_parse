@@ -1,0 +1,44 @@
+{"location":{"latitude":"25.09790","longitude":"55.15631"},"citi":"Dubai"}
+{"location":{"latitude":"24.4415","longitude":"54.5315"},"citi":"Abu Dhabi"}
+{"location":{"latitude":"25.31222","longitude":"55.42358"},"citi":"Sharjah"}
+{"location":{"latitude":"25.14138","longitude":"56.31634"},"citi":"El Ain"}
+{"location":{"latitude":"25.39455","longitude":"55.52466"},"citi":"Ajman"}
+{"location":{"latitude":"25.81508","longitude":"55.95707"},"citi":"Ras Al Khaimah"}
+{"location":{"latitude":"25.1491","longitude":"56.3277"},"citi":"El Fujairah"}
+{"location":{"latitude":"25.1491","longitude":"56.3277"},"citi":"Umm al-Kaywain"}
+{"location":{"latitude":"25.1491","longitude":"56.3277"},"citi":"Haur-Fakkan"}
+{"location":{"latitude":"24.99192","longitude":"55.06861"},"citi":"Jebel Ali"}
+{"location":{"latitude":"25.5977","longitude":"56.2842"},"citi":"Dibba"}
+{"location":{"latitude":"23.6519","longitude":"53.7141"},"citi":"Madinat-Zayed"}
+{"location":{"latitude":"23.6519","longitude":"53.7141"},"citi":"Diba El-Hisn"}
+{"location":{"latitude":"23.6519","longitude":"53.7141"},"citi":"Ad-Dad"}
+{"location":{"latitude":"23.6519","longitude":"53.7141"},"citi":"Al-Kuoz"}
+{"location":{"latitude":"23.6519","longitude":"53.7141"},"citi":"Air-Ruwais"}
+{"location":{"latitude":"23.6519","longitude":"53.7141"},"citi":"Hayati"}
+{"location":{"latitude":"23.6519","longitude":"53.7141"},"citi":"Errance"}
+{"location":{"latitude":"23.6519","longitude":"53.7141"},"citi":"Liwa Oasis Hut"}
+{"location":{"latitude":"23.6519","longitude":"53.7141"},"citi":"Abu El Abyad"}
+{"location":{"latitude":"24.44214","longitude":"54.71935"},"citi":"Abu Musa"}
+{"location":{"latitude":"24.44214","longitude":"54.71935"},"citi":"Azen"}
+{"location":{"latitude":"24.44214","longitude":"54.71935"},"citi":"El Aryan"}
+{"location":{"latitude":"24.44214","longitude":"54.71935"},"citi":"El Badiya"}
+{"location":{"latitude":"25.4355","longitude":"56.3396"},"citi":"El Hamriniyah"}
+{"location":{"latitude":"25.4355","longitude":"56.3396"},"citi":"El Hamri"}
+{"location":{"latitude":"25.71046","longitude":"55.82670"},"citi":"Al Jazeera-Al Hamra"}
+{"location":{"latitude":"25.71046","longitude":"55.82670"},"citi":"El Jir"}
+{"location":{"latitude":"25.71046","longitude":"55.82670"},"citi":"El Madame"}
+{"location":{"latitude":"25.3259","longitude":"56.0005"},"citi":"Manama"}
+{"location":{"latitude":"25.7548","longitude":"55.9926"},"citi":"El Qusaidat"}
+{"location":{"latitude":"25.7548","longitude":"55.9926"},"citi":"Elkor"}
+{"location":{"latitude":"25.7548","longitude":"55.9926"},"citi":"Asimakh"}
+{"location":{"latitude":"25.23288","longitude":"55.27707"},"citi":"Zayid"}
+{"location":{"latitude":"25.6515","longitude":"55.9237"},"citi":"Digdaga"}
+{"location":{"latitude":"25.36939","longitude":"55.85474"},"citi":"Falaj al-Mualla"}
+{"location":{"latitude":"25.36939","longitude":"55.85474"},"citi":"Khalilah"}
+{"location":{"latitude":"23.8114","longitude":"53.5104"},"citi":"Habshan"}
+{"location":{"latitude":"23.8114","longitude":"53.5104"},"citi":"Huvailat"}
+{"location":{"latitude":"24.9965","longitude":"56.2721"},"citi":"Kalba"}
+{"location":{"latitude":"24.51633","longitude":"54.39441"},"citi":"Khalifa Port"}
+{"location":{"latitude":"24.51633","longitude":"54.39441"},"citi":"Hutt"}
+{"location":{"latitude":"24.51633","longitude":"54.39441"},"citi":"Khor-Hva ir"}
+{"location":{"latitude":"24.51633","longitude":"54.39441"},"citi":"Marawah"}
